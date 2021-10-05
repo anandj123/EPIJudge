@@ -1,7 +1,12 @@
 #include "test_framework/generic_test.h"
+using namespace std;
 short Parity(unsigned long long x) {
-  // TODO - you fill in here.
-  return 0;
+  long long mask = 1;
+  int ans = 0;
+  for(int i=0;i<64;++i){
+    if(x & mask <<i) ++ans;
+  }
+  return (ans%2);
 }
 
 int main(int argc, char* argv[]) {

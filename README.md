@@ -1,4 +1,10 @@
-# EPI Judge
+# Anand Progress
+
+## 10/5/2021
+
+[CSES weird Algo](https://cses.fi/problemset/task/1068) : [Solution](./ep_judge_cpp/CSES/cses_weird_algo.cc)
+
+ EPI Judge
 
 ## Beta 5
 

@@ -2,12 +2,18 @@
 
 ## 10/5/2021
 
-1. [CSES weird Algo](https://cses.fi/problemset/task/1068) : [Solution](./ep_judge_cpp/CSES/cses_weird_algo.cc)
+1. [CSES weird Algo](https://cses.fi/problemset/task/1068) : [Solution](./epi_judge_cpp/CSES/cses_weird_algo.cc)
 
-2. [CSES missing number](https://cses.fi/problemset/task/1083) : [Solution](./ep_judge_cpp/CSES/missing_number.cc)
+2. [CSES missing number](https://cses.fi/problemset/task/1083) : [Solution](./epi_judge_cpp/CSES/missing_number.cc)
 
 3. [4.00 Bootcamp: Primitive Types](./epi_judge_cpp/count_bits.cc)
 4. [4.01 Computing the parity of a word](./epi_judge_cpp/parity.cc)
+
+## 10/6/2021
+
+1. [CSES counting rooms](https://cses.fi/problemset/task/1192) : [Solution] (./epi_judge_cpp/CSES/counting_rooms.cc)
+
+2. [CSES Labyrinth](https://cses.fi/problemset/submit/1193/) : [Solution](./epi_judge_cpp/CSES/labyrinth.cc)
 
 # EPI Judge
 

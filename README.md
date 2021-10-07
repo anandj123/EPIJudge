@@ -11,7 +11,7 @@
 
 ## 10/6/2021
 
-1. [CSES counting rooms](https://cses.fi/problemset/task/1192) : [Solution] (./epi_judge_cpp/CSES/counting_rooms.cc)
+1. [CSES counting rooms](https://cses.fi/problemset/task/1192) : [Solution](./epi_judge_cpp/CSES/counting_rooms.cc)
 
 2. [CSES Labyrinth](https://cses.fi/problemset/submit/1193/) : [Solution](./epi_judge_cpp/CSES/labyrinth.cc)
 

@@ -21,6 +21,9 @@
 2. [4.03 Reverse bits](./epi_judge_cpp/reverse_bits.cc)
 3. [4.04 Find a closest integer with the same weight](./epi_judge_cpp/closest_int_same_weight.cc)
 4. [4.05 Compute product without arithmetical operators](./epi_judge_cpp/primitive_multiply.cc)
+5. [4.07 Compute pow(x,y)](./epi_judge_cpp/power_x_y.cc)
+6. [4.08 Reverse digits](./epi_judge_cpp/reverse_digits.cc)
+7. [4.09 Check if a decimal integer is a palindrome](./epi_judge_cpp/is_number_palindromic.cc)
 
 
 # EPI Judge

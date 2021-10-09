@@ -1,7 +1,26 @@
 #include "test_framework/generic_test.h"
+using namespace std;
+
 unsigned long long ClosestIntSameBitCount(unsigned long long x) {
-  // TODO - you fill in here.
-  return 0;
+  unsigned long long mask = 1;
+  if (x & mask) {
+    for(int i=0;i<64;++i){
+      if (!(x & mask<<i) ) {
+        x |= mask<<i;
+        x ^= mask<<(i-1);
+        break;
+      }
+    }
+  } else {
+    for(int i=0;i<64;++i){
+      if (x & mask<<i) {
+        x ^= mask<<i;
+        x |= mask<<(i-1);
+        break;
+      }
+    }
+  }
+  return x;
 }
 
 int main(int argc, char* argv[]) {

@@ -19,6 +19,8 @@
 
 1. [4.02 Swap bits](./epi_judge_cpp/swap_bits.cc)
 2. [4.03 Reverse bits](./epi_judge_cpp/reverse_bits.cc)
+3. [4.04 Find a closest integer with the same weight](./epi_judge_cpp/closest_int_same_weight.cc)
+4. [4.05 Compute product without arithmetical operators](./epi_judge_cpp/primitive_multiply.cc)
 
 
 # EPI Judge

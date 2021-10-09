@@ -15,6 +15,12 @@
 
 2. [CSES Labyrinth](https://cses.fi/problemset/submit/1193/) : [Solution](./epi_judge_cpp/CSES/labyrinth.cc)
 
+## 10/9/2021
+
+1. [4.02 Swap bits](./epi_judge_cpp/swap_bits.cc)
+2. [4.03 Reverse bits](./epi_judge_cpp/reverse_bits.cc)
+
+
 # EPI Judge
 
 ## Beta 5

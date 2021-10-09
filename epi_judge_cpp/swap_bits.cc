@@ -1,7 +1,17 @@
 #include "test_framework/generic_test.h"
+using namespace std;
+
 long long SwapBits(long long x, int i, int j) {
-  // TODO - you fill in here.
-  return 0;
+  long long mask = 1;
+  long long ival, jval;
+  ival = (mask<<i & x)>>i;
+  jval = (mask<<j & x)>>j;
+  // cout << endl << "ival: " << ival << endl;
+  // cout << "jval: " << jval << endl;
+  if ( ival == jval ) return x;
+  x ^= mask<<i;
+  x ^= mask<<j;
+  return x;
 }
 
 int main(int argc, char* argv[]) {

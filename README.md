@@ -24,6 +24,7 @@
 5. [4.07 Compute pow(x,y)](./epi_judge_cpp/power_x_y.cc)
 6. [4.08 Reverse digits](./epi_judge_cpp/reverse_digits.cc)
 7. [4.09 Check if a decimal integer is a palindrome](./epi_judge_cpp/is_number_palindromic.cc)
+8. [5.00 Bootcamp: Arrays](./epi_judge_cpp/even_odd_array.cc)
 
 
 # EPI Judge
